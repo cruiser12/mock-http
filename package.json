@@ -1,0 +1,23 @@
+{
+  "name": "mock_http",
+  "version": "0.0.1",
+  "description": "mocking nodejs http library including expected responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruiser12/mock-http.git"
+  },
+  "keywords": [
+    "mock",
+    "http"
+  ],
+  "author": "Christian Hiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruiser12/mock-http/issues"
+  },
+  "homepage": "https://github.com/cruiser12/mock-http#readme"
+}
